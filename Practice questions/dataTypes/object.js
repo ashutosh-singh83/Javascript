@@ -4,6 +4,6 @@ const bio={
     following:10,
     isFollow:true
 }
-console.log(bio);
-console.log(bio.username);
-console.log(bio["username"]);
+console.log(bio)
+console.log(bio.username)
+console.log(bio["username"])
