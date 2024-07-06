@@ -1,4 +1,4 @@
-let marks=[96,90,67,99,95,56];
+let marks=[90,67,89,96,99,98];
 let arr_90=marks.filter((mark)=>{
     return mark>=90;
 })
